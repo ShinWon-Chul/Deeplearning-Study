@@ -20,6 +20,10 @@
 * [ROC-AUC Posting](https://deeppago.tistory.com/79#c6) / [ROC-AUC Code](/evaluation_metric/ROC_AUC.ipynb)
 * [피마 인디언 당뇨병 예측 코드 (Evaluation Metric 활용)](/evaluation_metric/피마%20인디언%20당뇨병%20예측(Evaluation%20Metric%20활용).ipynb)
 
+### Classification
+
+* [Decision Tree Posting](https://deeppago.tistory.com/25?category=1251895) / [Decision Tree Code](/classification/결정%20트리%20실습%20-%20Human%20Activity%20Recognition.ipynb)
+
 ### Statistics
 
 * [중심극한정리 Posting](https://deeppago.tistory.com/49) / [중심극한정리 Code](/중심극한정리/중심극한정리.ipynb)
