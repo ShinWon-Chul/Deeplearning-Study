@@ -14,6 +14,11 @@
 
 * [Weight Initialization Posting](https://deeppago.tistory.com/50?category=1251611) / [Weight Initialization Simple Code](/weight_initialization/weight_initialization(simple_test).ipynb) / [Weight Initialization MNIST Code](/weight_initialization/weight_initialization(feat%20MNIST).ipynb)
 
+### Evaluation Matric
+
+* [Precision Recall Trade Off Posting](https://deeppago.tistory.com/79#c4.1) / [Precision Recall Trade Off Code](/evaluation_metric/Precision_Recall_Trade-off.ipynb)
+* [ROC-AUC Posting](https://deeppago.tistory.com/79#c6) / [ROC-AUC Code](/evaluation_metric/ROC_AUC.ipynb)
+
 ### Statistics
 
 * [중심극한정리 Posting](https://deeppago.tistory.com/49) / [중심극한정리 Code](/중심극한정리/중심극한정리.ipynb)
