@@ -18,6 +18,7 @@
 
 * [Precision Recall Trade Off Posting](https://deeppago.tistory.com/79#c4.1) / [Precision Recall Trade Off Code](/evaluation_metric/Precision_Recall_Trade-off.ipynb)
 * [ROC-AUC Posting](https://deeppago.tistory.com/79#c6) / [ROC-AUC Code](/evaluation_metric/ROC_AUC.ipynb)
+* [피마 인디언 당뇨병 예측 코드 (Evaluation Metric 활용)](/evaluation_metric/피마%20인디언%20당뇨병%20예측(Evaluation%20Metric%20활용).ipynb)
 
 ### Statistics
 
