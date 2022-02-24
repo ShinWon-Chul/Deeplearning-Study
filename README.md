@@ -26,7 +26,6 @@
 * [ID3 Posting](https://deeppago.tistory.com/80)
 * [C4.5 Posting](https://deeppago.tistory.com/81)
 * [CART Posting](https://deeppago.tistory.com/82) / [Human Activity Recognition(결정 트리 CART)](/classification/Human%20Activity%20Recognition(결정%20트리%20CART).ipynb)
-
 * ensemble
     * [Random Forest Posting](https://deeppago.tistory.com/26) / [Human Activity Recognition(Random Forest)](/classification/Human%20Activity%20Recognition(Random%20Forest).ipynb)
     * [XGBoost Posting](https://deeppago.tistory.com/28?category=1252113) / [Santander_Customer_Satisfaction(XGBoost)](/classification/Santander_Customer_Satisfaction(XGBoost).ipynb)
