@@ -22,7 +22,10 @@
 
 ### Classification
 
-* [Decision Tree Posting](https://deeppago.tistory.com/25?category=1251895) / [Decision Tree Code](/classification/결정%20트리%20실습%20-%20Human%20Activity%20Recognition.ipynb)
+* [Decision Tree Posting](https://deeppago.tistory.com/25?category=1251895)
+* [ID3 Posting](https://deeppago.tistory.com/80)
+* [C4.5 Posting](https://deeppago.tistory.com/81)
+* [CART Posting](https://deeppago.tistory.com/82) / [Decision Tree (CART) Code](/classification/Human%20Activity%20Recognition(결정%20트리%20CART).ipynb)
 
 ### Statistics
 
