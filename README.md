@@ -26,6 +26,7 @@
 * [ID3 Posting](https://deeppago.tistory.com/80)
 * [C4.5 Posting](https://deeppago.tistory.com/81)
 * [CART Posting](https://deeppago.tistory.com/82) / [Decision Tree (CART) Code](/classification/Human%20Activity%20Recognition(결정%20트리%20CART).ipynb)
+* [Random Forest Posting](https://deeppago.tistory.com/26) / [Random Forest Code](/classification/Human%20Activity%20Recognition(Random%20Forest).ipynb)
 
 ### Statistics
 
