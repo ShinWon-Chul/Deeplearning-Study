@@ -29,7 +29,8 @@
 * ensemble
     * [Random Forest Posting](https://deeppago.tistory.com/26) / [Human Activity Recognition(Random Forest)](/classification/Human%20Activity%20Recognition(Random%20Forest).ipynb)
     * [XGBoost Posting](https://deeppago.tistory.com/28?category=1252113) / [[Kaggle]Santander Customer Satisfaction(XGBoost)](/classification/Santander_Customer_Satisfaction(XGBoost).ipynb)
-    * [LightGBM Posting](https://deeppago.tistory.com/29?category=1252113) / [[Kaggle]Santander Customer Satisfaction(LightGBM)](/classification/Santander_Customer_Satisfaction(LightGBM).ipynb)
+    * [LightGBM Posting](https://deeppago.tistory.com/29?category=1252113) / [[Kaggle]Santander Customer Satisfaction(LightGBM)](/classification/Santander_Customer_Satisfaction(LightGBM).ipynb) / [[Kaggle]Credit Card Fraud Detection(LightGBM)](/classification/Credit%20Card%20Fraud%20Detection%5BLightGBM%5D.ipynb)
+    * [Wisconsin Breast Cancer(Stacking Ensemble)](/classification/Wisconsin%20Breast%20Cancer(Stacking%20Ensemble).ipynb)
 
 
 ### Statistics
