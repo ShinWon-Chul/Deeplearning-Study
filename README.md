@@ -35,9 +35,9 @@
 ### Regression
 * [Regression Posting](https://deeppago.tistory.com/83)
 * [Boston Home Price Prediction(LinearRegression)](/regression/%20Boston%20Home%20Price%20Prediction(LinearRegression).ipynb)
+* [[Kaggle]House Price(LinearRegression, Ridge, Lasso)](/regression/House%20Price(LinearRegression%2C%20Ridge%2C%20Lasso).ipynb)
 * [Wisconsin Breast Cancer Prediction(Logistic Regression)](/regression/Wisconsin%20Breast%20Cancer(Logistic%20Regression).ipynb)
-* [Bike Sharing Demand Prediction(Regression Tree)](/regression/Bike%20Sharing%20Demand(Regression%20Tree).ipynb)
-
+* [[Kaggle]Bike Sharing Demand Prediction(Regression Tree)](/regression/Bike%20Sharing%20Demand(Regression%20Tree).ipynb)
 
 
 ### Statistics
