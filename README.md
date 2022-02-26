@@ -32,6 +32,13 @@
     * [LightGBM Posting](https://deeppago.tistory.com/29?category=1252113) / [[Kaggle]Santander Customer Satisfaction(LightGBM)](/classification/Santander_Customer_Satisfaction(LightGBM).ipynb) / [[Kaggle]Credit Card Fraud Detection(LightGBM)](/classification/Credit%20Card%20Fraud%20Detection%5BLightGBM%5D.ipynb)
     * [Wisconsin Breast Cancer(Stacking Ensemble)](/classification/Wisconsin%20Breast%20Cancer(Stacking%20Ensemble).ipynb)
 
+### Regression
+* [Regression Posting](https://deeppago.tistory.com/83)
+* [Boston Home Price Prediction(LinearRegression)](/regression/%20Boston%20Home%20Price%20Prediction(LinearRegression).ipynb)
+* [Wisconsin Breast Cancer Prediction(Logistic Regression)](/regression/Wisconsin%20Breast%20Cancer(Logistic%20Regression).ipynb)
+* [Bike Sharing Demand Prediction(Regression Tree)](/regression/Bike%20Sharing%20Demand(Regression%20Tree).ipynb)
+
+
 
 ### Statistics
 
