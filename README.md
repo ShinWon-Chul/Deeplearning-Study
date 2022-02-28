@@ -39,8 +39,10 @@
 * [Wisconsin Breast Cancer Prediction(Logistic Regression)](/regression/Wisconsin%20Breast%20Cancer(Logistic%20Regression).ipynb)
 * [[Kaggle]Bike Sharing Demand Prediction(Regression Tree)](/regression/Bike%20Sharing%20Demand(Regression%20Tree).ipynb)
 
-### Dimensionality_Reduction
-* [PCA Posting](https://deeppago.tistory.com/84) / [Iris Data PCA Test](/dimensionality_reduction/iris_PCA_test.ipynb)
+### Dimension_Reduction
+* [PCA Posting](https://deeppago.tistory.com/84) / [Iris Data PCA Test](/dimension_reduction/iris_PCA_test.ipynb)
+* [SVD Posting](https://deeppago.tistory.com/87) / [SVD Simple Test](/dimension_reduction/SVD_test.ipynb)
+
 
 
 ### Statistics
