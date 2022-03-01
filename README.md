@@ -42,6 +42,7 @@
 ### Dimension_Reduction
 * [PCA Posting](https://deeppago.tistory.com/84) / [Iris Data PCA Test](/dimension_reduction/iris_PCA_test.ipynb)
 * [SVD Posting](https://deeppago.tistory.com/87) / [SVD Simple Test](/dimension_reduction/SVD_test.ipynb)
+* [Truncated SVD Posting](https://deeppago.tistory.com/87#c5) / [Truncated SVD Simple Test](/dimension_reduction/TruncatedSVD_test.ipynb)
 
 
 
