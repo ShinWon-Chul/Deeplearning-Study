@@ -1,6 +1,6 @@
 ## Machine Learning Study
 
-* 머신 러닝(Machine Learning)과 딥러닝(Deep Learning) 기초에 대한 소스코드 저장소입니다.
+머신 러닝(Machine Learning)과 딥러닝(Deep Learning) 기초에 대한 소스코드 저장소입니다.
 
 ### Data Preprocessing
 
