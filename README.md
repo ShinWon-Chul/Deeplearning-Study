@@ -50,7 +50,18 @@
 * [GMM(Gaussian Mixture Model) Posting](https://deeppago.tistory.com/90) / [Iris Data GMM(Gaussian Mixture Model) Test Code](/clustering/iris_GaussianMixtureModel_test.ipynb)
 * [DBSCAN Posting](https://deeppago.tistory.com/91) / [DBSCAN Simple Test Code](/clustering/DBSCAN_test(K-means%2C%20GMM).ipynb)
 
-
+### NLP / Text Analytics
+* Text Classification
+	* [20NewsGroups Text Classification(Logistic Regression)](/NLP/20NewsGroups%20Text%20Classification(Logistic%20Regression).ipynb)
+* Sentiment Analysis
+	* [IMDB movie review sentiment analysis(Logistic Regression)](/NLP/IMDB%20movie%20review%20sentiment%20analysis(Logistic%20Regression)%20.ipynb)
+	* [IMDB movie review sentiment analysis(VADER Lexicon)](/NLP/IMDB%20movie%20review%20sentiment%20analysis(VADER%20Lexicon).ipynb)
+	* [Naver Movie Review Sentiment Analysis(Konlpy, Logistic Regression)]()
+* Topic Modeling
+	* [20NewsGroups Topic Modeling (LDA, Latent Dirichlet Allocation)](/NLP/20NewsGroups%20Topic%20Modeling%20(LDA%2C%20Latent%20Dirichlet%20Allocation).ipynb)
+* Document Clustering
+	* [Opinion Review Dataset Document Clustering(K-Means)](/NLP/Opinion%20Review%20Dataset%20Document%20Clustering(K-Means).ipynb)
+	* [Opinion Review Document Similarity(K-Means)](/NLP/Opinion%20Review%20Document%20Similarity(K-Means).ipynb)
 
 ### Statistics
 
