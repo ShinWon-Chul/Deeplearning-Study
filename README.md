@@ -1,6 +1,6 @@
 ## Machine Learning Study
 
-머신 러닝(Machine Learning)과 딥러닝(Deep Learning) 기초에 대한 소스코드 저장소입니다.
+머신 러닝(Machine Learning) 공부 내용에 대한 개념 정리 및 소스코드 저장소입니다.
 
 ### Data Preprocessing
 
@@ -39,7 +39,7 @@
 * [Wisconsin Breast Cancer Prediction(Logistic Regression)](/regression/Wisconsin%20Breast%20Cancer(Logistic%20Regression).ipynb)
 * [[Kaggle]Bike Sharing Demand Prediction(Regression Tree)](/regression/Bike%20Sharing%20Demand(Regression%20Tree).ipynb)
 
-### Dimension_Reduction
+### Dimension Reduction
 * [PCA Posting](https://deeppago.tistory.com/84) / [Iris Data PCA Test Code](/dimension_reduction/iris_PCA_test.ipynb) / [Default of Credit Card Prediction PCA Test Code](/dimension_reduction/default%20of%20credit%20card%20prediction(PCA%20test).ipynb)
 * [SVD Posting](https://deeppago.tistory.com/87) / [SVD Simple Test Code](/dimension_reduction/SVD_test.ipynb)
 * [Truncated SVD Posting](https://deeppago.tistory.com/87#c5) / [Truncated SVD Simple Test Code](/dimension_reduction/TruncatedSVD_test.ipynb)
@@ -56,7 +56,7 @@
 * Sentiment Analysis
 	* [IMDB movie review sentiment analysis(Logistic Regression)](/NLP/IMDB%20movie%20review%20sentiment%20analysis(Logistic%20Regression)%20.ipynb)
 	* [IMDB movie review sentiment analysis(VADER Lexicon)](/NLP/IMDB%20movie%20review%20sentiment%20analysis(VADER%20Lexicon).ipynb)
-	* [Naver Movie Review Sentiment Analysis(Konlpy, Logistic Regression)]()
+	* [Naver Movie Review Sentiment Analysis(Konlpy, Logistic Regression)](/NLP/Naver%20Movie%20Review%20Sentiment%20Analysis(Konlpy%2C%20Logistic%20Regression).ipynb)
 * Topic Modeling
 	* [20NewsGroups Topic Modeling (LDA, Latent Dirichlet Allocation)](/NLP/20NewsGroups%20Topic%20Modeling%20(LDA%2C%20Latent%20Dirichlet%20Allocation).ipynb)
 * Document Clustering
